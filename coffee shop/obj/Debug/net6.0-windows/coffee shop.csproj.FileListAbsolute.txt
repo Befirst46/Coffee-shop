@@ -1,0 +1,18 @@
+C:\Users\yanas\Documents\GitHub\coffee shop\bin\Debug\net6.0-windows\coffee shop.exe
+C:\Users\yanas\Documents\GitHub\coffee shop\bin\Debug\net6.0-windows\coffee shop.deps.json
+C:\Users\yanas\Documents\GitHub\coffee shop\bin\Debug\net6.0-windows\coffee shop.runtimeconfig.json
+C:\Users\yanas\Documents\GitHub\coffee shop\bin\Debug\net6.0-windows\coffee shop.dll
+C:\Users\yanas\Documents\GitHub\coffee shop\bin\Debug\net6.0-windows\ref\coffee shop.dll
+C:\Users\yanas\Documents\GitHub\coffee shop\bin\Debug\net6.0-windows\coffee shop.pdb
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.csproj.AssemblyReference.cache
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee_shop.Form1.resources
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.csproj.GenerateResource.cache
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.AssemblyInfoInputs.cache
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.AssemblyInfo.cs
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.csproj.CoreCompileInputs.cache
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.dll
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\ref\coffee shop.dll
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.pdb
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee shop.genruntimeconfig.cache
+C:\Users\yanas\Documents\GitHub\coffee shop\obj\Debug\net6.0-windows\coffee_shop.Properties.Resources.resources
